@@ -4,6 +4,10 @@ My React Calculator Application is a user-friendly and feature-rich tool designe
 calculations with precision and efficiency. It provides an intuitive user interface that adapts seamlessly to various
 screen sizes, making it accessible across both desktop and mobile devices.
 
+## Screenshot
+![image](https://github.com/jtsimon93/React-Calculator-App/assets/943326/08af9136-1dba-4c5e-b835-ed2dcd8e9c3f)
+
+
 ## Setting Up the App
 
 Clone the repo and run "npm install" to install the dependencies:
