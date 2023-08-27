@@ -188,7 +188,14 @@ function App() {
       </div>
       <div className={"footer"}>
         Created by <a href={"https://jtsimon.dev"}>Tanner Simon</a>. Open Source
-        Software, check it out on GitHub.
+        Software, check it out on{" "}
+        <a
+          href={"https://github.com/jtsimon93/React-Calculator-App"}
+          target={"_blank"}
+        >
+          GitHub
+        </a>
+        .
       </div>
     </>
   );
